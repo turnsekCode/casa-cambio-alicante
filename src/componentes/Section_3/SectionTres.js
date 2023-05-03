@@ -8,28 +8,30 @@ const SectionTres = () => {
         <div className={styles.bloqueIzq}>
           <h2>
             ¿Necesitas una oficina de cambio en
-            <span className={styles.linea}> Barcelona?</span>
+            <span className={styles.linea}> Alicante?</span>
           </h2>
           <p>
             <span>
-              En Quickgold tenemos actualmente 3 casas de cambio para que puedas
-              cambiar moneda extrajera fácil y rápido.
+              Actualmente tenemos 2 oficinas de cambio de divisas en Alicante
+              para que puedas cambiar divisa fácil y rápido. No cobramos
+              comisiones y ofrecemos el mejor tipo de cambio de la ciudad. {""}
             </span>
             Tenemos más de 30 divisas disponibles para ofrecerte el mejor
             servicio.
           </p>
         </div>
         <div className={styles.bloqueDer}>
-          <h2>¿Cómo cambiar divisa?</h2>
+          <h3>¿Cómo cambiar divisa?</h3>
           <p>
-            Acude a tu casa de cambio quickgold más cercana, indícanos la moneda
-            extranjera que quieres cambiar y recibe el dinero en efectivo al
-            instante.
+            Acude a tu casa de cambio quickgold en Alicante más cercana,
+            indícanos la moneda extranjera que quieres cambiar y recibe el
+            dinero en efectivo al instante. Puedes cambiar dólares por euros en
+            solo unos minutos.
           </p>
         </div>
       </div>
       <h1>
-        Cambiar divisa en <span className={styles.linea}>Barcelona</span> es muy
+        Cambiar divisa en <span className={styles.linea}>Alicante</span> es muy
         fácil
       </h1>
       <div className={styles.contenedorInfoTres}>

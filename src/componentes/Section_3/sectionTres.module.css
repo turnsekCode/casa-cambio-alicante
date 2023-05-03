@@ -39,14 +39,13 @@
     width: 100%;
     margin-bottom: 50px;
 }
-.bloqueIzq h2, .bloqueDer h2{
+.bloqueIzq h2, .bloqueDer h3{
     font-style: normal;
     font-weight: 700;
     font-size: 30px;
     line-height: 29px;
     color: #213E58;
     margin-bottom: 20px;
-    text-align: center;
 }
 .bloqueIzq p, .bloqueDer p{
     font-weight: 400;
