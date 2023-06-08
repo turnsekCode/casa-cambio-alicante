@@ -13,9 +13,9 @@ const Breadcrumbs = () => {
       </div>
       <a
         href="https://quickgold.es/casa-cambio-alicante/"
-        title="Ir a casa cambio alicante"
+        title="Ir a casa cambio Alicante"
       >
-        Casa Cambio alicante
+        Casa Cambio Alicante
       </a>
     </div>
   );

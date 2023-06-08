@@ -39,16 +39,16 @@ const Section_uno = () => {
       <div className={styles.bloqueDer}>
         {width <= 610 ? (
           <img
-            src="/alicante_mobil.webp"
-            alt="Casas de cambio alicante"
+            src="/divisa-mobil.webp"
+            alt="Casas de cambio Alicante"
             className={styles.madridMobil}
             width={290}
             height={220}
           />
         ) : (
           <img
-            src="/alicante.webp"
-            alt="Casas de cambio alicante"
+            src="/divisa.webp"
+            alt="Casas de cambio Alicante"
             className={styles.vector}
             width={480}
             height={364}
