@@ -9,7 +9,7 @@ import SectionDos from "@/componentes/Section_2/SectionDos";
 import SectionTres from "@/componentes/Section_3/SectionTres";
 import SectionCuatro from "@/componentes/Section_4/SectionCuatro";
 //import Mapa from "@/componentes/Mapa/Mapa";
-import Layout from "@/componentes/Layout/Layout";
+import Layout from "@/componentes/Layout/Layout.js";
 import React from "react";
 import { useInView } from "react-intersection-observer";
 
