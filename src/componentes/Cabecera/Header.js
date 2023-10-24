@@ -92,7 +92,7 @@ const Header = ({ menu_list, sticky, stickyRef }) => {
             </a>
           </div>
           <div className={styles.botonLlamar}>
-            <a href="tel:900 373 629" title="Teléfono">
+            <a href="tel:900373629" title="Teléfono">
               LLAMA GRATIS AL 900 373 629
             </a>
           </div>
