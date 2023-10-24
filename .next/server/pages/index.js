@@ -2241,8 +2241,8 @@ const Vender_Comprar = ()=>{
             }),
             /*#__PURE__*/ jsx_runtime_.jsx("a", {
                 className: (estilosConversor_module_default()).botonLlamarTienda,
-                href: "tel:900 373 629",
-                children: "LLAMAR A TIENDA"
+                href: "tel:900373629",
+                children: "LLAMA GRATIS"
             })
         ]
     });
