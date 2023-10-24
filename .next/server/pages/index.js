@@ -707,7 +707,7 @@ const Header = ({ menu_list , sticky , stickyRef  })=>{
                                 children: /*#__PURE__*/ jsx_runtime_.jsx("a", {
                                     href: "tel:900373629",
                                     title: "Tel\xe9fono",
-                                    children: "LLAMA GRATIS AL 900 373 629"
+                                    children: "LLAMA GRATIS"
                                 })
                             })
                         ]
